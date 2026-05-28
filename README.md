@@ -1,10 +1,10 @@
-# 🔐 Pcryption
+# Pcryption
 
 Pcryption is a pen-and-paper cipher designed to encrypt and decrypt text using nothing but a blank sheet of paper. 
 
 While it isn't designed to stop professional cryptanalysts, its main good side is simplicity: **you do not need to carry a massive lookup table with you to use it.** If you understand the underlying pattern, you can encrypt and decrypt entirely from memory.
 
-> ⚠️ **Disclaimer:** This project was created for fun Do not use Pcryption to secure highly sensitive data!
+> ⚠️ **Disclaimer:** This project was created for fun Do not use Pcryption to secure sensitive data!
 
 ---
 
