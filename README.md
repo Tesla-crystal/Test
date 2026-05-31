@@ -24,7 +24,7 @@ Because of this layout, you can easily calculate the codes in your head without 
 
 ---
 
-## 📊 The Cipher Table
+## Table
 
 | Column 1 (Cycle 1) | Column 2 (Cycle 2) | Column 3 (Cycle 3) |
 | :--- | :--- | :--- |
